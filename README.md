@@ -64,8 +64,8 @@ Artificial intelligence (AI) is intelligence exhibited by intelligent agents
 
 [Part II Fundamentals of Machine Learning(Traditional Intelligence)]
 - [ The Machine Learning Landscape](https://luckh2.github.io/aiclass/online/ai4.html)
-- [ End-to-End Machine Learning Project](https://luckh2.github.io/aiclass/online/m.html)
-- [ Classification](https://luckh2.github.io/aiclass/online/m.html)
+- [ End-to-End Machine Learning Project](https://luckh2.github.io/aiclass/online/ai5.html)
+- [ Classification](https://luckh2.github.io/aiclass/online/ai6.html)
 - [ Training Models](https://luckh2.github.io/aiclass/online/m.html)
 - [ Support Vector Machines](https://luckh2.github.io/aiclass/online/m.html)
 - [ Decision Trees](https://luckh2.github.io/aiclass/online/m.html)
